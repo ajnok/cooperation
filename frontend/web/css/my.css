@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27 ก.พ. 2558, 11:42:57
+    Author     : Alisa
+*/
+
+.navbar-orange {
+    background-color: #F99A08;
+    /*background-color: @navbar-inverse-bg;*/
+    /*border-color: @navbar-inverse-border;*/
+
+
+}
+a.navbar-brand {
+    color: white;
+}
+a.navbar-brand:hover{
+    color:  lavender;
+}
+.navbar-nav > li > a {
+    color: white;
+}
